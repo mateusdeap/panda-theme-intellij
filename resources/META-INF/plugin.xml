@@ -1,0 +1,26 @@
+<idea-plugin>
+  <id>tree.pear.panda.theme</id>
+  <name>Panda Theme</name>
+  <version>1.0.0</version>
+  <vendor>ThePearTree</vendor>
+
+  <description>Unoficial Panda Syntax theme for the IntelliJ platform</description>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="69c0096a-0ebd-4c1b-9e2e-608de54bca5e" path="/panda_theme.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

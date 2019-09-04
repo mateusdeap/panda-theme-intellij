@@ -1,0 +1,51 @@
+{
+  "name": "Panda Theme",
+  "dark": true,
+  "author": "Mateus Pereira",
+  "editorScheme": "/panda_theme.xml",
+  "colors": {
+    "veryLightGray": "#E6E6E6",
+    "veryLightGrayFade": "#FFFFFF",
+    "lighterGray": "#CDCDCD",
+    "lighterGrayFade": "#CDCDCD30",
+    "contrastGray": "#BBBBBB",
+    "lightGray": "#757575",
+    "lightMidnight": "#676B79",
+    "steelGray": "#4E5260",
+    "gray": "#373B41",
+    "grayFade": "#373B4199",
+    "veryDarkGray": "#2A2C2D",
+    "seal": "#31353A",
+    "charcoal": "#222223",
+    "blue": "#45A9F9",
+    "lightBlue": "#6FC1FF",
+    "purple": "#B084EB",
+    "purpleFade": "#B084EB60",
+    "lightPurple": "#BCAAFE",
+    "green": "#19F9D8",
+    "lightGreen": "#6FE7D2",
+    "greenFade": "#6FE7D299",
+    "red": "#FF2C6D",
+    "lightRed": "#FF4B82",
+    "orange": "#FFB86C",
+    "lightOrange": "#FFCC95",
+    "lightOrangeFade": "#FFCC9560",
+    "pink": "#FF75B5",
+    "lightPink": "#FF9AC1",
+    "lightPinkFade": "#FF9AC170"
+  },
+  "ui": {
+    "*": {
+      "background": "gray"
+    },
+    "EditorTabs": {
+      "underlineColor": "blue",
+      "underlineHeight": 2,
+      "underlinedTabBackground": "gray"
+    },
+    "Borders": {
+      "color": "charcoal"
+    },
+    "Panel.background": "gray"
+  }
+}
