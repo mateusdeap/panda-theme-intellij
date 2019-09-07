@@ -2,7 +2,10 @@
 
 My own version of the Panda Theme for IntelliJ based products.
 
-There's not much to it. I love the panda theme in VS Code and I wanted to have it in RubyMine and Android Studio. It is very much an ongoing project (hence the 0.0.1 version). I've only gotten so far as to set up a few colors the way I think seems appropriate, but they probably will be changed, I merely tried to stick to how VS Code did things since I don't know much about UX or UI, so any suggestions are apreciated.
+There's not much to it. I love the panda theme in VS Code and I wanted to have it in RubyMine and Android Studio.
+It is very much an ongoing project (hence the 0.0.1 version). This uses the xml file provided in
+https://github.com/PandaTheme/panda-syntax-intellij. I merely put it in a plugin structure and added some colors
+to some IDE elements, but only a very few so suggestions and ideas are definitely welcome.
 
 # Installation
 
