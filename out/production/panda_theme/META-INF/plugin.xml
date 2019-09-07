@@ -11,9 +11,7 @@
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->
-  <!-- uncomment to enable plugin in all products
   <depends>com.intellij.modules.lang</depends>
-  -->
 
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="69c0096a-0ebd-4c1b-9e2e-608de54bca5e" path="/panda_theme.theme.json"/>
