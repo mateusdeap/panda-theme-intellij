@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>tree.pear.panda.theme</id>
   <name>Panda Theme</name>
-  <version>1.0.0</version>
+  <version>0.0.1</version>
   <vendor>ThePearTree</vendor>
 
   <description>Unoficial Panda Syntax theme for the IntelliJ platform</description>
